@@ -1,3 +1,4 @@
+\# vim: filetype=groff_ms
 .nr PS 10p
 .nr VS 12p
 .nr PSINCR 6p
@@ -28,7 +29,7 @@
 .ps 18
 .B "Tanmoy Sarkar"
 .ps 10
-seniorsarkar.de@gmail.com
+tan99sarkar88@gmail.com
 .DE
 .TS
 tab(;) nospaces;
