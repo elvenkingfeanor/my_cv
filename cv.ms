@@ -47,7 +47,7 @@ T}
 .TE
 .heading "Summary of Qualifications"
 .LP
-Analytical and detail-oriented professional with 6 years of biological sciences research background.
+An analytical, tech-savvy and detail-oriented professional with 6+ years of biological sciences research background.
 .TS
 tab(;) nospaces;
 rW12|lx.
@@ -57,7 +57,7 @@ rW12|lx.
 Well versed in primary stem cell culture including tissue isolation, enrichment, cryopreservation, cell separation and FACS, characterization, quantitation, and lysis.
 .br
 \(bu
-.B "Molecular biological procedures"
+.B "Molecular biology procedures"
 Well acquainted with 2D-PAGE, ELISA, MALDI-TOF, Western blotting, gene cloning and plasmid pBR322 vector engineering, electroporation, bacterial cell culture, qRT-PCR, RT-PCR, primer designing, restriction mapping, epigenetic profiling.
 .br
 \(bu
@@ -71,6 +71,11 @@ Informed on BLAST, FASTA3, ClustalW
 \(bu
 .B "Biostatistical techniques"
 Knowledgeable with t-tests, Mann-Whitney tests, Chi-square tests, ANOVA analyses.
+.br
+\(bu
+.B "Biological Instrumentation softwares"
+BD FACScalibur, Roche LightCycler 480, Biorad Image Lab, Nanodrop 1000
+.br
 .sp .5
 T}
 \m[default]Communications Skills\m[linecolor];T{
@@ -79,40 +84,40 @@ Excellent verbal and written communications, and proposal drafting talents. Easi
 T}
 \m[default]Technical skills\m[linecolor];T{
 \(bu
-.B "Biological Instrumentation softwares"
-BD FACScalibur, Roche LightCycler 480, Biorad Image Lab, Nanodrop 1000
+.B "Documentation and typesetting programming languages"
+groff \**, LaTeX, markdown
+.br
+\(bu
+.B "Git-based document tracking and version control softwares"
+git, diff, patch, xargs, sed, awk, echo, cat, cut, paste, tr, grep, find, regex
+.br
+\(bu
+.B "Statistical and graph plotting softwares"
+R, Matlab, gnuplot, ttyplot
 .br
 \(bu
 .B "Image creation and quantitation softwares"
 ImageJ, Inkscape, GIMP, imagemagick
 .br
 \(bu
-.B "Document editing and management softwares"
-nvim, groff \**, LaTeX, markdown, git, diff, patch, xargs, echo, cat, cut, paste, tr, grep, find, awk, sed, fzf, tree, regex
-.br
-\(bu
-.B "Statistical and graph plotting softwares"
-R, gnuplot, ttyplot
-.br
-\(bu
 .B "Sysadmin and other softwares"
-bash, systemd, grub, fdisk, top, dd, mkfs, time, ssh, kill, ping, df, du, lsblk, curl, wget, cron, mount, mtp, adb, chmod, chgrp
+vim, bash, cron, ssh, fdisk, lsblk, mount, dd, mkfs, time, systemd, top, kill, ping, ip, df, du, fzf, tree, curl, wget, grub, mtp, adb, chmod, chgrp
 .sp .5
 T}
 \m[default]Key Strengths\m[linecolor];T{
-Finely-tuned analytical skills with a dedication to expanding subject knowledge and workplace competencies through continuing training. Unparalleled multitasking and time management skills.
+Finely-tuned analytical skills with a dedication to expanding subject knowledge and workplace competencies through continuous perseverance. Unparalleled multitasking and time management skills.
 .sp .5
 T}
 .TE
 \m[default]
 .FS
-This document was prepared in nvim text editor using groff typesetting language.
+This document was prepared in the vim text editor using groff typesetting language.
 .FE
 .heading "Professional Experience"
 .TS
 tab(;) nospaces;
 rW10|lx.
-\m[default]2014 - 2019\m[linecolor];T{
+\m[default]2014 - 2021\m[linecolor];T{
 .B "CSIR-Institute for Genomics & Integrative Biology"
 \(en New Delhi
 .br
