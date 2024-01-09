@@ -35,8 +35,7 @@ tan99sarkar88@gmail.com
 tab(;) nospaces;
 l rx .
 Kampa Lake Road
-Vill.- Nagdaha
-P.O.- Kampa
+Vill.- Nagdaha, P.O.- Kampa
 Dist.- North 24 Parganas
 West Bengal, India;T{
 .I "+91-7982143662"
@@ -47,71 +46,90 @@ T}
 .TE
 .heading "Summary of Qualifications"
 .LP
-An analytical, tech-savvy and detail-oriented professional with 6+ years of biological sciences research background.
+An analytical, tech-savvy, detail-oriented professional with 6+ years of biological and allied sciences research background.
 .TS
 tab(;) nospaces;
 rW12|lx.
 \m[default]Core Skills\m[linecolor];T{
 \(bu 
-.B "Stem cell culture protocols"
-Well versed in primary stem cell culture including tissue isolation, enrichment, cryopreservation, cell separation and FACS, characterization, quantitation, and lysis.
+.B "Cell culture protocols"
+Well versed in primary stem cell culture including tissue isolation, enrichment, cryopreservation, FACS, characterization, quantitation, and lysis. Also familiar with broth-based and agar-based bacterial cell cultures.
 .br
 \(bu
-.B "Molecular biology procedures"
-Well acquainted with 2D-PAGE, ELISA, MALDI-TOF, Western blotting, gene cloning and plasmid pBR322 vector engineering, electroporation, bacterial cell culture, qRT-PCR, RT-PCR, primer designing, restriction mapping, epigenetic profiling.
+.B "Molecular biology techniques"
+a) 
+.I "Protein-based assays" 
+like 2D-PAGE, ELISA, MALDI-TOF and Western blotting, b) 
+.I "DNA/RNA-based assays" 
+like gene cloning, vector engineering, electroporation, qRT-PCR, cDNA, restriction mapping and epigenetic profiling.
 .br
 \(bu
 .B "Medical physiology practices"
-Familiar with biochemical, hematological, histological and microbial studies including experimental physiological studies, slide preparation and staining, and microscopy.
+Acquainted with biochemical, hematological, histological and microbial studies including experimental physiological studies, slide preparation and staining, and microscopy.
 .br
 \(bu
 .B "Bioinformatics strategies"
-Informed on BLAST, FASTA3, ClustalW
+BLAST, FASTA3, ClustalW
 .br
 \(bu
-.B "Biostatistical techniques"
-Knowledgeable with t-tests, Mann-Whitney tests, Chi-square tests, ANOVA analyses.
+.B "Biostatistical procedures"
+t-tests, Mann-Whitney tests, Chi-square tests, ANOVA analyses.
 .br
 \(bu
 .B "Biological Instrumentation softwares"
-BD FACScalibur, Roche LightCycler 480, Biorad Image Lab, Nanodrop 1000
+BD FACScalibur, Roche LightCycler 480, Biorad Image Lab, Nanodrop 1000, PDQuest
 .br
-.sp .5
-T}
-\m[default]Communications Skills\m[linecolor];T{
-Excellent verbal and written communications, and proposal drafting talents. Easily instill trust and confidence in colleagues.
 .sp .5
 T}
 \m[default]Technical skills\m[linecolor];T{
 \(bu
-.B "Documentation and typesetting programming languages"
-groff \**, LaTeX, markdown
+.B "Typesetting programming languages"
+Groff \**, LaTeX, Markdown, HTML
+.FS
+This document was prepared in the vi text editor using groff typesetting language.
+.FE
 .br
 \(bu
 .B "Git-based document tracking and version control softwares"
-git, diff, patch, xargs, sed, awk, echo, cat, cut, paste, tr, grep, find, regex
+git, diff, patch
 .br
 \(bu
-.B "Statistical and graph plotting softwares"
-R, Matlab, gnuplot, ttyplot
+.B "Statistical and database management programming languages"
+R, MySQL
 .br
 \(bu
 .B "Image creation and quantitation softwares"
 ImageJ, Inkscape, GIMP, imagemagick
 .br
 \(bu
-.B "Sysadmin and other softwares"
-vim, bash, cron, ssh, fdisk, lsblk, mount, dd, mkfs, time, systemd, top, kill, ping, ip, df, du, fzf, tree, curl, wget, grub, mtp, adb, chmod, chgrp
+.B "Linux sysadmin tools"
+vi, cron, ssh, sed, awk, grep, find, fdisk, systemd, ip, curl, wget, grub
+.br
+\(bu
+.B "Basic scripting and automation"
+Bash, Lua, Python
+.br
+\(bu
+.B "Advanced MS-Office proficiencies"
+pivot table creation, batch operations
+.br
+\(bu
+.B "Advanced Web-based skills"
+OAuth2 token generation, XML feed generation
+.sp .5
+T}
+\m[default]English Skills\m[linecolor];T{
+Excellent verbal and written communication skills\**, with a decent typing speed of 45WPM.
 .sp .5
 T}
 \m[default]Key Strengths\m[linecolor];T{
-Finely-tuned analytical skills with a dedication to expanding subject knowledge and workplace competencies through continuous perseverance. Unparalleled multitasking and time management skills.
+Finely-tuned analytical skills with a dedication to expanding subject knowledge and workplace competencies through continuous perseverance. Unparalleled multitasking and time management skills, able to think outside the box. Excellent team player, can easily instill trust and confidence in colleagues.
 .sp .5
 T}
 .TE
 \m[default]
 .FS
-This document was prepared in the vim text editor using groff typesetting language.
+Score of 098/120 in Test of English as a Foreign Language (TOEFL) Internet-Based Test (iBT), from August 2012.
 .FE
 .heading "Professional Experience"
 .TS
@@ -235,13 +253,6 @@ Percentile Rank
 .I "Quantitative Reasoning"
 \(en
 .I 82
-.br
-.B "Test of English as a Foreign Language (TOEFL)"
-\(en ETS
-.br
-Scaled Score
-\(en
-.I 098
 .sp .5
 T}
 \m[default]2011\m[linecolor];T{
