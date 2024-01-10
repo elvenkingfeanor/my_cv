@@ -44,28 +44,40 @@ PIN- 743193;T{
 .I "https://github.com/elvenkingfeanor"
 T}
 .TE
-.heading "Summary of Qualifications"
+.heading "Executive Brief"
 .LP
-An analytical, tech-savvy, detail-oriented professional with 6+ years of biological and allied sciences research background.
+An analytical, tech-savvy, detail-oriented professional with 6+ years of STEM research background.
+.br
+.sp .5
+.TE
+.heading "Summary of Skills"
 .TS
 tab(;) nospaces;
 rW12|lx.
 \m[default]Core Skills\m[linecolor];T{
 \(bu 
 .B "Cell culture protocols"
-Well versed in primary stem cell culture including tissue isolation, enrichment, cryopreservation, FACS, characterization, quantitation, and lysis. Also familiar with broth-based and agar-based bacterial cell cultures.
+Well versed in primary stem cell culture including tissue isolation, enrichment, cryopreservation, FACS, characterization, quantitation, and lysis. Also familiar with both broth-based and agar-based bacterial cell cultures.
 .br
 \(bu
 .B "Molecular biology techniques"
 a) 
 .I "Protein-based assays" 
-like 2D-PAGE, ELISA, MALDI-TOF and Western blotting, b) 
+\(en 2D-PAGE, ELISA, MALDI-TOF, HPLC and Western blotting, b) 
 .I "DNA/RNA-based assays" 
-like gene cloning, vector engineering, electroporation, qRT-PCR, cDNA, restriction mapping and epigenetic profiling.
+\(en gene cloning, vector engineering, electroporation, qRT-PCR, cDNA, restriction mapping and epigenetic profiling.
 .br
 \(bu
-.B "Medical physiology practices"
-Acquainted with biochemical, hematological, histological and microbial studies including experimental physiological studies, slide preparation and staining, and microscopy.
+.B "Microscopy"
+confocal microscopy, live-cell imaging, inverted microscopy, in addition to regular compound microscopy used in histological, hematological and microbial studies.
+.br
+\(bu
+.B "Clinical physiology practices"
+sphygmomanometry, phlebotomy, spirometry.
+.br
+\(bu
+.B "Clinical blood tests"
+blood sugar, blood uric acid, serum urea estimations.
 .br
 \(bu
 .B "Bioinformatics strategies"
@@ -76,38 +88,38 @@ BLAST, FASTA3, ClustalW
 t-tests, Mann-Whitney tests, Chi-square tests, ANOVA analyses.
 .br
 \(bu
-.B "Biological Instrumentation softwares"
-BD FACScalibur, Roche LightCycler 480, Biorad Image Lab, Nanodrop 1000, PDQuest
+.B "Biological Instrumentation"
+BD FACScalibur, Roche LightCycler 480, Biorad Image Lab, Nanodrop
 .br
 .sp .5
 T}
 \m[default]Technical skills\m[linecolor];T{
 \(bu
-.B "Typesetting programming languages"
-Groff \**, LaTeX, Markdown, HTML
+.B "Programming languages"
+a) 
+.I "Typesetting"
+\(en Groff \**, LaTeX, Markdown, HTML,
+b)
+.I "Statistical and database management"
+\(en R, MySQL,
+c)
+.I "Basic scripting and automation"
+\(en Bash, Lua, Python
 .FS
 This document was prepared in the vi text editor using groff typesetting language.
 .FE
 .br
 \(bu
-.B "Git-based document tracking and version control softwares"
+.B "Git-based version control systems"
 git, diff, patch
 .br
 \(bu
-.B "Statistical and database management programming languages"
-R, MySQL
-.br
-\(bu
-.B "Image creation and quantitation softwares"
-ImageJ, Inkscape, GIMP, imagemagick
+.B "Image modification and quantitation"
+ImageJ, PDQuest, Inkscape, GIMP, imagemagick
 .br
 \(bu
 .B "Linux sysadmin tools"
 vi, cron, ssh, sed, awk, grep, find, fdisk, systemd, ip, curl, wget, grub
-.br
-\(bu
-.B "Basic scripting and automation"
-Bash, Lua, Python
 .br
 \(bu
 .B "Advanced MS-Office proficiencies"
@@ -124,13 +136,13 @@ Excellent verbal and written communication skills\**, with a decent typing speed
 T}
 \m[default]Key Strengths\m[linecolor];T{
 Finely-tuned analytical skills with a dedication to expanding subject knowledge and workplace competencies through continuous perseverance. Unparalleled multitasking and time management skills, able to think outside the box. Excellent team player, can easily instill trust and confidence in colleagues.
-.sp .5
 T}
 .TE
 \m[default]
 .FS
 Score of 098/120 in Test of English as a Foreign Language (TOEFL) Internet-Based Test (iBT), from August 2012.
 .FE
+.sp .5
 .heading "Professional Experience"
 .TS
 tab(;) nospaces;
@@ -172,50 +184,9 @@ restriction enzyme-based plasmid modifications towards bacterial genetic enginee
 .br
 \(en thesis titled
 .I "Probing plant-microbe interactions in Xanthomonas quorum sensing".
-.sp .5
 T}
 .TE
-\m[default]
-.heading "Educational Qualifications"
-.TS
-tab(;) nospaces;
-rW10|lx.
-\m[default]2016\m[linecolor];T{
-.B "Senior Research Fellow"
-\(en University Grants Commission
-.br
-.I "CSIR-Institute of Genomics & Integrative Biology, New Delhi"
 .sp .5
-T}
-\m[default]2014\m[linecolor];T{
-.B "Junior Research Fellow"
-\(en University Grants Commission
-.br
-.I "CSIR-Institute of Genomics & Integrative Biology, New Delhi"
-.sp .5
-T}
-\m[default]2011\m[linecolor];T{
-.B "Junior Research Fellow"
-\(en Council for Scientific & Industrial Research
-.br
-.I "DBT-Centre for DNA Fingerprinting & Diagnostics, Hyderabad"
-.sp .5
-T}
-\m[default]2011\m[linecolor];T{
-.B "Master of Science"
-\(en Utkal University, Bhubaneswar
-.br
-.I "PG Department of Biotechnology, Utkal University, Bhubaneswar"
-.sp .5
-T}
-\m[default]2009\m[linecolor];T{
-.B "Bachelor of Science with Honours"
-\(en University of Calcutta
-.br
-.I "erstwhile Presidency College, now Presidency University, Kolkata"
-.sp .5
-T}
-.TE
 \m[default]
 .heading "Awards & Achievements"
 .TS
@@ -228,7 +199,7 @@ rW10|lx.
 Rank
 \(en
 .I "CSIR 064"
-.sp .5
+.sp .25
 T}
 \m[default]2013\m[linecolor];T{
 .B "Joint CSIR-UGC National Eligibility Test (NET) for JRF & LS"
@@ -237,7 +208,7 @@ T}
 Rank
 \(en
 .I "UGC 048"
-.sp .5
+.sp .25
 T}
 \m[default]2012\m[linecolor];T{
 .B "Graduate Records Examination (GRE)"
@@ -253,7 +224,7 @@ Percentile Rank
 .I "Quantitative Reasoning"
 \(en
 .I 82
-.sp .5
+.sp .25
 T}
 \m[default]2011\m[linecolor];T{
 .B "Graduate Aptitude Test in Engineering (GATE)"
@@ -262,7 +233,7 @@ T}
 Rank
 \(en
 .I 515
-.sp .5
+.sp .25
 T}
 \m[default]2010\m[linecolor];T{
 .B "Joint CSIR-UGC National Eligibility Test (NET) for JRF & LS"
@@ -271,7 +242,7 @@ T}
 Rank
 \(en
 .I "CSIR 091"
-.sp .5
+.sp .25
 T}
 \m[default]2006\m[linecolor];T{
 .B "DST-Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship"
@@ -283,7 +254,6 @@ T}
 Rank
 \(en
 .I 352
-.sp .5
 T}
 .TE
 \m[default]
@@ -300,11 +270,53 @@ Journal of Immunology.
 DOI: 
 .B "10.1155/2020/4897983"
 T}
+.sp .25
 \m[default]2014\m[linecolor];T{
 .B "38th All India Cell Biology Conference and International Symposium"
 on
 .I "Cellular Response to Drugs"
 \(en CSIR-Central Drug Research Institute (CDRI).
+T}
+.TE
+\m[default]
+.heading "Educational Background"
+.TS
+tab(;) nospaces;
+rW10|lx.
+\m[default]2016\m[linecolor];T{
+.B "Senior Research Fellow"
+\(en University Grants Commission
+.br
+.I "CSIR-Institute of Genomics & Integrative Biology, New Delhi"
+.sp .25
+T}
+\m[default]2014\m[linecolor];T{
+.B "Junior Research Fellow"
+\(en University Grants Commission
+.br
+.I "CSIR-Institute of Genomics & Integrative Biology, New Delhi"
+.sp .25
+T}
+\m[default]2011\m[linecolor];T{
+.B "Junior Research Fellow"
+\(en Council for Scientific & Industrial Research
+.br
+.I "DBT-Centre for DNA Fingerprinting & Diagnostics, Hyderabad"
+.sp .25
+T}
+\m[default]2011\m[linecolor];T{
+.B "Master of Science"
+\(en Utkal University, Bhubaneswar
+.br
+.I "PG Department of Biotechnology, Utkal University, Bhubaneswar"
+.sp .25
+T}
+\m[default]2009\m[linecolor];T{
+.B "Bachelor of Science with Honours"
+\(en University of Calcutta
+.br
+.I "erstwhile Presidency College, now Presidency University, Kolkata"
+.sp .25
 T}
 .TE
 \m[default]
@@ -318,7 +330,7 @@ Scientist 'F', CSIR-IGIB, Proteomics lab, Room 311, North Campus, Mall Road, nea
 Email: 
 .I "sagarika.biswas@igib.res.in"
 Phone: +91-1127662581
-.sp .5
+.sp .25
 T}
 \m[default]Dr. Dakshayani Mahapatra\m[linecolor];T{
 Assistant Professor (WBES), Dept. of Physiology, Government General Degree College, Mohanpur, Paschim Medinipur, WB. PIN
@@ -326,7 +338,7 @@ Assistant Professor (WBES), Dept. of Physiology, Government General Degree Colle
 Email:
 .I "dakshayani.mahapatra@gmail.com"
 Phone: +91-9830655682
-.sp .5
+.sp .25
 T}
 \m[default]Dr. Sumit Kumar Gautam\m[linecolor];T{
 Lead Scientist, Clear Meat Pvt. Ltd., B 78, First Floor, Sector 2, Noida, Near Sector 15 Metro Station. PIN
