@@ -41,14 +41,14 @@ West Bengal, India;T{
 .I "+91-7982143662"
 T}
 PIN- 743193;T{
-.I "https://github.com/elvenkingfeanor"
+.I "https://github.com/elvenkingfeanor/my_cv"
 T}
 .TE
-.heading "Executive Brief"
+.heading "Brief Profile"
 .LP
-An analytical, tech-savvy, detail-oriented professional with 6+ years of STEM research background.
+An analytical Biotechnology post-grad with 6+ years of STEM research experience, a keen attention to detail, a knack to think outside the box, and a dedication to improve workplace competency through utmost dedication and perseverance. Possesses a wide variety of skill set, ranging from stem cell culture to data visualization to clinical physiology to biomedical communications, required in either a laboratory or clinical settings. Additional technical ability of a variety of programming languages and Linux tools, means rapid multitasking, resulting in efficient time management.
 .br
-.sp .5
+.sp 0.5
 .TE
 .heading "Summary of Skills"
 .TS
@@ -57,26 +57,56 @@ rW12|lx.
 \m[default]Core Skills\m[linecolor];T{
 \(bu 
 .B "Cell culture protocols"
-Well versed in primary stem cell culture including tissue isolation, enrichment, cryopreservation, FACS, characterization, quantitation, and lysis. Also familiar with both broth-based and agar-based bacterial cell cultures.
+a)
+.I "Primary stem cell culture"
+\(en tissue isolation, stem cell enrichment, cryopreservation, FACS, immunostaining, MTT assay, b)
+.I "Secondary cell culture"
+\(en subculture, complete media formulation and serum handling, Trypan Blue staining, lysis, c)
+.I "Bacterial cultures"
+\(en broth media formulation, agar media plating, quantitation, lysis
 .br
 \(bu
 .B "Molecular biology techniques"
 a) 
 .I "Protein-based assays" 
-\(en 2D-PAGE, ELISA, MALDI-TOF, HPLC and Western blotting, b) 
+\(en 2D-PAGE, ELISA, MALDI-TOF, HPLC, Western blotting, b) 
 .I "DNA/RNA-based assays" 
-\(en gene cloning, vector engineering, electroporation, qRT-PCR, cDNA, restriction mapping and epigenetic profiling.
+\(en gene cloning, vector engineering, electroporation, qRT-PCR, cDNA, restriction mapping, epigenetic profiling.
 .br
 \(bu
 .B "Microscopy"
-confocal microscopy, live-cell imaging, inverted microscopy, in addition to regular compound microscopy used in histological, hematological and microbial studies.
+confocal microscopy, live-cell imaging, inverted microscopy, compound microscopy for histological, hematological and microbial studies.
 .br
 \(bu
-.B "Clinical physiology practices"
+.B "Data visualisation"
+using R statistical programming language a) 
+.I "Correlation studies"
+\(en scatter plots, heatmaps, connected scatter plots, b)
+.I "Ranking studies"
+\(en bar graphs, circular bar graphs, spider plots, dendrogram plots, c)
+.I "Proportion studies"
+\(en pie charts, doughnut charts, grouped and stacked bar graphs
+.br
+\(bu
+.B "Biostatistical procedures"
+t-tests, Mann-Whitney tests, Chi-square tests, ANOVA analyses.
+.br
+\(bu
+.B "Biomedical communications"
+Academic writing including bibliography management, Proposal and Grant writing, Research and reporting
+.br
+\(bu
+.B "Laboratory animal handling"
+.I "Rattus norvegicus"
+(laboratory rat) strains 
+\(en Wistar, Sprague Dawley
+.br
+\(bu
+.B "Clinical physiology"
 sphygmomanometry, phlebotomy, spirometry.
 .br
 \(bu
-.B "Clinical blood tests"
+.B "Clinical biochemistry"
 blood sugar, blood uric acid, serum urea estimations.
 .br
 \(bu
@@ -84,13 +114,8 @@ blood sugar, blood uric acid, serum urea estimations.
 BLAST, FASTA3, ClustalW
 .br
 \(bu
-.B "Biostatistical procedures"
-t-tests, Mann-Whitney tests, Chi-square tests, ANOVA analyses.
-.br
-\(bu
-.B "Biological Instrumentation"
+.B "Biological instrumentation"
 BD FACScalibur, Roche LightCycler 480, Biorad Image Lab, Nanodrop
-.br
 .sp .5
 T}
 \m[default]Technical skills\m[linecolor];T{
@@ -100,8 +125,8 @@ a)
 .I "Typesetting"
 \(en Groff \**, LaTeX, Markdown, HTML,
 b)
-.I "Statistical and database management"
-\(en R, MySQL,
+.I "Big data and database management"
+\(en R, SQL,
 c)
 .I "Basic scripting and automation"
 \(en Bash, Lua, Python
@@ -114,7 +139,7 @@ This document was prepared in the vi text editor using groff typesetting languag
 git, diff, patch
 .br
 \(bu
-.B "Image modification and quantitation"
+.B "Image editing and quantitation"
 ImageJ, PDQuest, Inkscape, GIMP, imagemagick
 .br
 \(bu
@@ -127,7 +152,7 @@ pivot table creation, batch operations
 .br
 \(bu
 .B "Advanced Web-based skills"
-OAuth2 token generation, XML feed generation
+OAuth2 token, XML feed generation, search engine optimization (SEO)
 .sp .5
 T}
 \m[default]English Skills\m[linecolor];T{
@@ -135,14 +160,13 @@ Excellent verbal and written communication skills\**, with a decent typing speed
 .sp .5
 T}
 \m[default]Key Strengths\m[linecolor];T{
-Finely-tuned analytical skills with a dedication to expanding subject knowledge and workplace competencies through continuous perseverance. Unparalleled multitasking and time management skills, able to think outside the box. Excellent team player, can easily instill trust and confidence in colleagues.
+A dependable, hard-working and self-motivated employee. Also an excellent and empathetic team player, who can easily instill trust and confidence in colleagues, and is a problem-solver to boot.
 T}
 .TE
 \m[default]
 .FS
 Score of 098/120 in Test of English as a Foreign Language (TOEFL) Internet-Based Test (iBT), from August 2012.
 .FE
-.sp .5
 .heading "Professional Experience"
 .TS
 tab(;) nospaces;

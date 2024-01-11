@@ -11,7 +11,7 @@
 .TL
 Tanmoy Sarkar
 .AU
-seniorsarkar.de\[at]gmail.com
+tan99sarkar88\[at]gmail.com
 .AU
 +91-7982143662
 
