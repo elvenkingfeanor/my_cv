@@ -46,7 +46,7 @@ T}
 .TE
 .heading "Brief Profile"
 .LP
-An analytical Biotechnology post-grad with 6+ years of STEM research experience, a keen attention to detail, a knack to think outside the box, and a dedication to improve workplace competency through utmost dedication and perseverance. Possesses a wide variety of skill set, ranging from stem cell culture to data visualization to clinical physiology to biomedical communications, required in either a laboratory or clinical settings. Additional technical ability of a variety of programming languages and Linux tools, means rapid multitasking, resulting in efficient time management.
+An analytical Biotechnology post-grad with 6+ years of STEM research experience, a keen attention to detail, a knack to think outside the box, and a dedication to improve workplace competency through utmost dedication and perseverance. Possesses a wide variety of skill set, ranging from stem cell culture to data visualization and analysis to clinical physiology to biomedical communications, required in either a laboratory or clinical settings. Ancillary technical ability of a variety of programming languages and Linux tools, means rapid multitasking, resulting in efficient time management.
 .br
 .sp 0.5
 .TE
@@ -66,12 +66,12 @@ a)
 \(en broth media formulation, agar media plating, quantitation, lysis
 .br
 \(bu
-.B "Molecular biology techniques"
-a) 
-.I "Protein-based assays" 
-\(en 2D-PAGE, ELISA, MALDI-TOF, HPLC, Western blotting, b) 
-.I "DNA/RNA-based assays" 
-\(en gene cloning, vector engineering, electroporation, qRT-PCR, cDNA, restriction mapping, epigenetic profiling.
+.B "Proteomics"
+SDS-PAGE, 2D-PAGE, ELISA, MALDI-TOF, HPLC, Western blotting, spot analysis
+.br
+\(bu
+.B "Genetic engineering"
+gene cloning, vector engineering, electroporation, qRT-PCR, cDNA, restriction mapping, epigenetic profiling
 .br
 \(bu
 .B "Microscopy"
@@ -88,12 +88,12 @@ using R statistical programming language a)
 \(en pie charts, doughnut charts, grouped and stacked bar graphs
 .br
 \(bu
-.B "Biostatistical procedures"
+.B "Statistical data analysis"
 t-tests, Mann-Whitney tests, Chi-square tests, ANOVA analyses.
 .br
 \(bu
 .B "Biomedical communications"
-Academic writing including bibliography management, Proposal and Grant writing, Research and reporting
+academic writing including bibliography management using BibTeX, proposal and grant writing, research and reporting, collaboration
 .br
 \(bu
 .B "Laboratory animal handling"
@@ -172,7 +172,7 @@ Score of 098/120 in Test of English as a Foreign Language (TOEFL) Internet-Based
 tab(;) nospaces;
 rW10|lx.
 \m[default]2014 - 2021\m[linecolor];T{
-.B "CSIR-Institute for Genomics & Integrative Biology"
+.B "CSIR-Institute for Genomics & Integrative Biology (IGIB)"
 \(en New Delhi
 .br
 .I "Research Fellow"
@@ -196,7 +196,7 @@ additionally, arranged seminars, guided trainees, collected samples, and other l
 .sp .5
 T}
 \m[default]2011 - 2012\m[linecolor];T{
-.B "DBT-Centre for DNA Fingerprinting & Diagnostics"
+.B "DBT-Centre for DNA Fingerprinting & Diagnostics (CDFD)"
 \(en Hyderabad
 .br
 .I "Research Fellow"
@@ -204,7 +204,10 @@ T}
 Worked under the guidance of Dr. Subhadeep Chatterjee to achieve:
 .br
 \(bu
-restriction enzyme-based plasmid modifications towards bacterial genetic engineering
+plasmid vector engineering and establishment of bacterial cultures
+.br
+\(bu
+bacterial genetic engineering using electroporation and validation using PCR
 .br
 \(en thesis titled
 .I "Probing plant-microbe interactions in Xanthomonas quorum sensing".
@@ -217,7 +220,7 @@ T}
 tab(;) nospaces;
 rW10|lx.
 \m[default]2014\m[linecolor];T{
-.B "Joint CSIR-UGC National Eligibility Test (NET) for JRF & LS"
+.B "CSIR-UGC National Eligibility Test (NET) for JRF & LS"
 \(en CSIR
 .br
 Rank
@@ -226,8 +229,8 @@ Rank
 .sp .25
 T}
 \m[default]2013\m[linecolor];T{
-.B "Joint CSIR-UGC National Eligibility Test (NET) for JRF & LS"
-\(en CSIR
+.B "CSIR-UGC National Eligibility Test (NET) for JRF & LS"
+\(en UGC
 .br
 Rank
 \(en
@@ -260,7 +263,7 @@ Rank
 .sp .25
 T}
 \m[default]2010\m[linecolor];T{
-.B "Joint CSIR-UGC National Eligibility Test (NET) for JRF & LS"
+.B "CSIR-UGC National Eligibility Test (NET) for JRF & LS"
 \(en CSIR
 .br
 Rank
