@@ -183,7 +183,15 @@ Meticulously worked under the supervision of Dr. Sagarika Biswas to accomplish:
 setup viable cell culture laboratory and standardized stem cell culture protocols
 .br
 \(bu
-performed RNA and protein studies on patient samples
+performed RNA and protein studies on patient samples using cDNA libraries and RT-PCR
+.br
+\(bu
+used R, Python and Linux tools on proteomics data to produce
+\(en a)
+.I "data visualization"
+like scatter plots for correlation studies, pie charts for proportion studies, dendrogram plots for hierarchical studies, and, b)
+.I "statistical analysis"
+like t-tests and ANOVA tests.
 .br
 \(bu
 carried out animal handling and dissection in accordance with ethical committee procedures
