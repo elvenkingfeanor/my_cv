@@ -1,3 +1,4 @@
+\# inspired from https://noxz.tech/articles/writing_a_resume_in_groff/
 \# vim: filetype=groff_ms
 .nr PS 10p
 .nr VS 12p
@@ -25,6 +26,7 @@
 .   sp -.2
 .   fi
 ..
+
 .DS C
 .ps 18
 .B "Tanmoy Sarkar"
@@ -46,7 +48,7 @@ T}
 .TE
 .heading "Brief Profile"
 .LP
-An analytical Biotechnology post-grad with 6+ years of STEM research experience, a keen attention to detail, a knack to think outside the box, and a dedication to improve workplace competency through utmost dedication and perseverance. Possesses a wide variety of skill set, ranging from stem cell culture to data visualization and analysis to clinical physiology to biomedical communications, required in either a laboratory or clinical settings. Ancillary technical ability of a variety of programming languages and Linux tools, means rapid multitasking, resulting in efficient time management.
+An analytical Biotechnology post-grad with 6+ years of STEM research experience, a keen attention to detail, a knack to think outside the box, and a dedication to improve workplace competency through utmost dedication and perseverance. Possess a wide variety of skill sets ranging from stem cell culture to data analysis and visualization to clinical physiology and biomedical communications, required in either a laboratory or classroom, in a clinical or industrial setting. Ancillary technical ability of a variety of programming languages and Linux tools, means ability for rapid multitasking and efficient time management, amplified with the capability to think outside-the-box.
 .br
 .sp 0.5
 .TE
@@ -79,7 +81,7 @@ confocal microscopy, live-cell imaging, inverted microscopy, compound microscopy
 .br
 \(bu
 .B "Data visualisation"
-using R statistical programming language a) 
+using R statistical programming language for a) 
 .I "Correlation studies"
 \(en scatter plots, heatmaps, connected scatter plots, b)
 .I "Ranking studies"
@@ -99,7 +101,7 @@ academic writing including bibliography management using BibTeX, proposal and gr
 .B "Laboratory animal handling"
 .I "Rattus norvegicus"
 (laboratory rat) strains 
-\(en Wistar, Sprague Dawley
+\(en Wistar, Sprague-Dawley
 .br
 \(bu
 .B "Clinical physiology"
@@ -193,6 +195,8 @@ like scatter plots for correlation studies, pie charts for proportion studies, d
 .I "statistical analysis"
 like t-tests and ANOVA tests.
 .br
+\(bu
+undertook academic writing involving LaTeX style sheets, including bibliography management using BibTeX, proposal and grant writings, collaborations and reports.
 \(bu
 carried out animal handling and dissection in accordance with ethical committee procedures
 .br
@@ -300,7 +304,7 @@ rW10|lx.
 Sarkar, A., Sharma, S., Agnihotri, P.,
 .B "Sarkar, T.",
 Kumari, P., Malhotra, R., Datta, B., Kumar, K., Biswas, S.
-.I "Synovial fluid cell proteomic analysis identifies upregulation of \[*a]-taxilin proteins in rheumatoid arthritis: a potential prognostic marker."
+.I "Synovial fluid cell proteomic analysis identifies upregulation of alpha-taxilin proteins in rheumatoid arthritis: a potential prognostic marker."
 Journal of Immunology.
 DOI: 
 .B "10.1155/2020/4897983"
