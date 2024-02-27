@@ -26,7 +26,7 @@
 .   sp -.2
 .   fi
 ..
-
+.
 .DS C
 .ps 18
 .B "Tanmoy Sarkar"
@@ -48,7 +48,19 @@ T}
 .TE
 .heading "Brief Profile"
 .LP
-An analytical Biotechnology post-grad with 6+ years of STEM research experience, a keen attention to detail, a knack to think outside the box, and a dedication to improve workplace competency through utmost dedication and perseverance. Possess a wide variety of skill sets ranging from stem cell culture to data analysis and visualization to clinical physiology and biomedical communications, required in either a laboratory or classroom, in a clinical or industrial setting. Ancillary technical ability of a variety of programming languages and Linux tools, means ability for rapid multitasking and efficient time management, amplified with the capability to think outside-the-box.
+An analytical Biotechnology post-grad with 6+ years of STEM research experience and ongoing graduate level teaching experience, a keen attention to detail, a knack to think outside the box, and a dedication to improve workplace competency through utmost dedication and perseverance.
+.
+Possess a wide variety of skill sets ranging from
+.B "stem cell culture"
+to
+.B "data analysis and visualization"
+to
+.B "clinical physiology"
+and biomedical communications, required in either a laboratory or classroom, in a clinical or industrial setting.
+.
+Ancillary technical ability of a variety of
+.B "programming languages and Linux"
+tools, means ability for rapid multitasking and efficient time management.
 .br
 .sp 0.5
 .TE
@@ -173,6 +185,25 @@ Score of 098/120 in Test of English as a Foreign Language (TOEFL) Internet-Based
 .TS
 tab(;) nospaces;
 rW10|lx.
+\m[default]2024 - present\m[linecolor];T{
+.B "Tezpur University"
+\(en Napaam, Assam
+.br
+.I "Guest Faculty"
+.br
+Elucidated the importance of biology and biochemical reactions to B.Tech students through:
+.br
+\(bu
+conveying the significance of biomolecules and their myriad manifestations
+.br
+\(bu
+the central role of experiments in the quest for new discoveries, for eg. the identification of DNA as the genetic material involved in the molecular basis of information transfer
+.br
+\(bu
+the analysis of biological processes at a reductionistic level, and the application of physico-chemical processes like thermodynamics, in biological systems
+.br
+\(en and evaluate them as per guidelines set by NAAC and UGC.
+T}
 \m[default]2014 - 2021\m[linecolor];T{
 .B "CSIR-Institute for Genomics & Integrative Biology (IGIB)"
 \(en New Delhi
