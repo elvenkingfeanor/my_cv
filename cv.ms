@@ -51,16 +51,14 @@ T}
 An analytical Biotechnology post-grad with 6+ years of STEM research experience and ongoing graduate level teaching experience, a keen attention to detail, a knack to think outside the box, and a dedication to improve workplace competency through utmost dedication and perseverance.
 .
 Possess a wide variety of skill sets ranging from
-.B "stem cell culture"
+.B "cell culture and molecular biology"
 to
-.B "data analysis and visualization"
-to
-.B "clinical physiology"
-and biomedical communications, required in either a laboratory or classroom, in a clinical or industrial setting.
+.B "data analysis and visualization".
+Adept in biomedical communications and good work ethics, required in either a laboratory or a classroom, in clinical or industrial settings.
 .
-Ancillary technical ability of a variety of
-.B "programming languages and Linux"
-tools, means ability for rapid multitasking and efficient time management.
+Ancillary interest in a variety of
+.B "programming languages and Linux tools"
+equates to ability for rapid multitasking and thorough reproducible job completion.
 .br
 .sp 0.5
 .TE
@@ -166,7 +164,7 @@ pivot table creation, batch operations
 .br
 \(bu
 .B "Advanced Web-based skills"
-OAuth2 token, XML feed generation, search engine optimization (SEO)
+OAuth token generation, XML feed generation, search engine optimization (SEO)
 .sp .5
 T}
 \m[default]English Skills\m[linecolor];T{
@@ -204,6 +202,7 @@ the analysis of biological processes at a reductionistic level, and the applicat
 .br
 \(en and evaluate them as per guidelines set by NAAC and UGC.
 T}
+.sp .5
 \m[default]2014 - 2021\m[linecolor];T{
 .B "CSIR-Institute for Genomics & Integrative Biology (IGIB)"
 \(en New Delhi
@@ -213,21 +212,22 @@ T}
 Meticulously worked under the supervision of Dr. Sagarika Biswas to accomplish:
 .br
 \(bu
-setup viable cell culture laboratory and standardized stem cell culture protocols
+viable cell culture laboratory setup and stem cell culture protocol standardizations
 .br
 \(bu
-performed RNA and protein studies on patient samples using cDNA libraries and RT-PCR
+RNA and protein studies on patient samples using cDNA libraries, RT-PCR, Western blotting and other gel-based experiments
 .br
 \(bu
-used R, Python and Linux tools on proteomics data to produce
+utilised R, Python and Linux tools on proteomics data to produce
 \(en a)
-.I "data visualization"
-like scatter plots for correlation studies, pie charts for proportion studies, dendrogram plots for hierarchical studies, and, b)
-.I "statistical analysis"
-like t-tests and ANOVA tests.
+.I "data visualization charts"
+like scatter plots for correlation studies and pie charts for proportion studies, b)
+.I "statistical analyses"
+like t-tests and ANOVA.
 .br
 \(bu
-undertook academic writing involving LaTeX style sheets, including bibliography management using BibTeX, proposal and grant writings, collaborations and reports.
+undertook academic writing exercise involving LaTeX style sheets, including bibliography management using BibTeX, proposal and grant writings, collaborations and reports.
+.br
 \(bu
 carried out animal handling and dissection in accordance with ethical committee procedures
 .br
@@ -326,6 +326,7 @@ Rank
 .I 352
 T}
 .TE
+.sp .5
 \m[default]
 .heading "Publications & Posters"
 .TS
@@ -348,6 +349,7 @@ on
 \(en CSIR-Central Drug Research Institute (CDRI).
 T}
 .TE
+.sp .5
 \m[default]
 .heading "Educational Background"
 .TS
