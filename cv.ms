@@ -48,13 +48,15 @@ T}
 .TE
 .heading "Brief Profile"
 .LP
-An analytical Biotechnology post-grad with 6+ years of STEM research experience and ongoing graduate level teaching experience, a keen attention to detail, a knack to think outside the box, and a dedication to improve workplace competency through utmost dedication and perseverance.
+I am an analytical-minded Biotechnology post-grad with graduate level teaching experience, having 6+ years of STEM research background.
 .
-Possess a wide variety of skill sets ranging from
+I possess a keen attention to detail, an inclination to think outside the box, and a dedication to improve workplace competency through utmost dedication, research and perseverance.
+.
+I am endowed with a wide variety of skill-sets ranging from
 .B "cell culture and molecular biology"
 to
-.B "data analysis and visualization".
-Adept in biomedical communications and good work ethics, required in either a laboratory or a classroom, in clinical or industrial settings.
+.B "data analysis".
+I am adept in efficient communications required in either a laboratory or a classroom, in clinical or industrial settings.
 .
 Ancillary interest in a variety of
 .B "programming languages and Linux tools"
@@ -93,15 +95,15 @@ confocal microscopy, live-cell imaging, inverted microscopy, compound microscopy
 .B "Data visualisation"
 using R statistical programming language for a) 
 .I "Correlation studies"
-\(en scatter plots, heatmaps, connected scatter plots, b)
+\(en scatter plots, heatmaps, b)
 .I "Ranking studies"
-\(en bar graphs, circular bar graphs, spider plots, dendrogram plots, c)
+\(en bar graphs, spider plots, dendrogram plots, c)
 .I "Proportion studies"
 \(en pie charts, doughnut charts, grouped and stacked bar graphs
 .br
 \(bu
 .B "Statistical data analysis"
-t-tests, Mann-Whitney tests, Chi-square tests, ANOVA analyses.
+t-tests, Chi-square tests, ANOVA analyses.
 .br
 \(bu
 .B "Biomedical communications"
@@ -183,8 +185,8 @@ Score of 098/120 in Test of English as a Foreign Language (TOEFL) Internet-Based
 .TS
 tab(;) nospaces;
 rW10|lx.
-\m[default]2024 - present\m[linecolor];T{
-.B "Tezpur University"
+\m[default]2024 - 2024\m[linecolor];T{
+.B "School of Engineering (SoE), Tezpur University"
 \(en Napaam, Assam
 .br
 .I "Guest Faculty"
@@ -195,12 +197,12 @@ Elucidated the importance of biology and biochemical reactions to B.Tech student
 conveying the significance of biomolecules and their myriad manifestations
 .br
 \(bu
-the central role of experiments in the quest for new discoveries, for eg. the identification of DNA as the genetic material involved in the molecular basis of information transfer
+imparting the application of thermodynamic principles to biological systems
 .br
 \(bu
-the analysis of biological processes at a reductionistic level, and the application of physico-chemical processes like thermodynamics, in biological systems
+expounding the central role of enzymes in a diverse range of metabolic pathways
 .br
-\(en and evaluate them as per guidelines set by NAAC and UGC.
+\(en and evaluate them as per NAAC and UGC guidelines.
 T}
 .sp .5
 \m[default]2014 - 2021\m[linecolor];T{
@@ -212,13 +214,13 @@ T}
 Meticulously worked under the supervision of Dr. Sagarika Biswas to accomplish:
 .br
 \(bu
-viable cell culture laboratory setup and stem cell culture protocol standardizations
+viable cell culture laboratory setup and stem cell culture protocol standardization
 .br
 \(bu
 RNA and protein studies on patient samples using cDNA libraries, RT-PCR, Western blotting and other gel-based experiments
 .br
 \(bu
-utilised R, Python and Linux tools on proteomics data to produce
+utilized R, Python and Linux tools on proteomics data to produce
 \(en a)
 .I "data visualization charts"
 like scatter plots for correlation studies and pie charts for proportion studies, b)
@@ -247,10 +249,16 @@ T}
 Worked under the guidance of Dr. Subhadeep Chatterjee to achieve:
 .br
 \(bu
-plasmid vector engineering and establishment of bacterial cultures
+established and maintained broth- and agar-based bacterial cultures
 .br
 \(bu
-bacterial genetic engineering using electroporation and validation using PCR
+studied gene of interest in the GenBank database and designed PCR vectors using the Primer3 tool
+.br
+\(bu
+performed plasmid vector engineering via restriction mapping and transformed bacterial cells via electroporation
+.br
+\(bu
+screened transformed bacterial colonies via replica plating and confirmed them via further PCR tests
 .br
 \(en thesis titled
 .I "Probing plant-microbe interactions in Xanthomonas quorum sensing".
@@ -396,8 +404,15 @@ T}
 .TS
 tab(;) nospaces;
 rW15|lx.
+\m[default]Prof. Partha P. Sahu\m[linecolor];T{
+Professor & Dean, School of Engineering, Tezpur University, Napaam, Assam, INDIA. PIN
+\(em 784028.
+Email:
+.I deansoe@tezu.ernet.in
+Phone: +91-3712273501
+T}
 \m[default]Dr. Sagarika Biswas\m[linecolor];T{
-Scientist 'F', CSIR-IGIB, Proteomics lab, Room 311, North Campus, Mall Road, near Jubilee Hall, Delhi University campus, Delhi
+Scientist 'G', CSIR-IGIB, Proteomics & Metabolomics in Rheumatoid Arthritis and Osteoarthritis lab, Room 311, North Campus, Mall Road, near Jubilee Hall, Delhi University campus, Delhi, INDIA. PIN
 \(en 110007.
 Email: 
 .I "sagarika.biswas@igib.res.in"
@@ -405,18 +420,18 @@ Phone: +91-1127662581
 .sp .25
 T}
 \m[default]Dr. Dakshayani Mahapatra\m[linecolor];T{
-Assistant Professor (WBES), Dept. of Physiology, Government General Degree College, Mohanpur, Paschim Medinipur, WB. PIN
+Assistant Professor (WBES), Dept. of Physiology, Government General Degree College, Mohanpur, Paschim Medinipur, WB, INDIA. PIN
 \(en 721436.
 Email:
 .I "dakshayani.mahapatra@gmail.com"
 Phone: +91-9830655682
 .sp .25
 T}
-\m[default]Dr. Sumit Kumar Gautam\m[linecolor];T{
-Lead Scientist, Clear Meat Pvt. Ltd., B 78, First Floor, Sector 2, Noida, Near Sector 15 Metro Station. PIN
-\(en 201301.
-Email:
-.I "sumit.k@clearmeat.com"
-Phone: +91-8826954099
-T}
 .TE
+\#\m[default]Dr. Sumit Kumar Gautam\m[linecolor];T{
+\#Lead Scientist, Clear Meat Pvt. Ltd., B 78, First Floor, Sector 2, Noida, Near Sector 15 Metro Station. PIN
+\#\(en 201301.
+\#Email:
+\#.I "sumit.k@clearmeat.com"
+\#Phone: +91-8826954099
+\#T}
